@@ -1,2 +1,2 @@
 # VCURamHacks
-Repo for VCU Ram Hacks project
+project for VCU Ram Hacks
